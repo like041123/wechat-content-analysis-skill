@@ -1,0 +1,21 @@
+﻿# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# TRAE local workspace artifacts
+.trae/cache/
+.trae/tmp/
+
+# Node (if any tooling added later)
+node_modules/
+
+# Logs
+*.log
