@@ -10,9 +10,9 @@ desktop.ini
 *.swo
 *~
 
-# TRAE local workspace artifacts
-.trae/cache/
-.trae/tmp/
+# Local cache
+.cache/
+tmp/
 
 # Node (if any tooling added later)
 node_modules/

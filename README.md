@@ -59,11 +59,11 @@
 ```bash
 # 全局安装（所有项目可用）
 git clone https://github.com/like041123/wechat-content-analysis-skill.git \
-  ~/.trae/skills/wechat-content-analysis
+  ~/skills/wechat-content-analysis
 
 # 或项目级安装
 git clone https://github.com/like041123/wechat-content-analysis-skill.git \
-  .trae/skills/wechat-content-analysis
+  ./skills/wechat-content-analysis
 ```
 
 装好之后，你直接丢文章链接或正文，助手会自动按这个技能的方法分析。
